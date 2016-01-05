@@ -1,5 +1,5 @@
-## cheb_tell_fit.py
-#Fit Chebsyshev polynomials to sections of an A0V telluric spectrum away from sky features, for a less noisy telluric correction.
+# cheb_tell_fit.py
+##Fit Chebsyshev polynomials to sections of an A0V telluric spectrum away from sky features, for a less noisy telluric correction.
 
 
 A script to fit chebyshev polynomials to the parts of a telluric spectrum (already divided by an A0 star spec using matchtelluric.pro)
@@ -19,4 +19,3 @@ format [lamda1, lamda2]\n[lamda3,lamda4]\n...etc. The square brackets are import
 
 Type python cheb_tell_fit -h for info on the options
 
-Sam Vaughan
