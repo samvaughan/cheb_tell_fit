@@ -1,5 +1,5 @@
-# cheb_tell_fit
-Fit Chebsyshev polynomials to sections of an A0V telluric spectrum away from sky features, for a less noisy telluric correction.
+## cheb_tell_fit.py
+#Fit Chebsyshev polynomials to sections of an A0V telluric spectrum away from sky features, for a less noisy telluric correction.
 
 
 A script to fit chebyshev polynomials to the parts of a telluric spectrum (already divided by an A0 star spec using matchtelluric.pro)
